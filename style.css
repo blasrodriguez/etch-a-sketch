@@ -1,0 +1,11 @@
+.grid {
+  height: 800px;
+  width: 800px;
+  display: grid;
+  border-width: 2px;
+  border-style: solid;
+}
+.cell {
+	border-style: solid;
+	border-width: 1px;
+}
