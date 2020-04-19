@@ -45,7 +45,6 @@ function clearGrid (grid) {
 	}
 }
 
-// the JavaScript file
 let gridSize = 16
 const container = document.querySelector('#container');
 const grid = document.createElement('div');
